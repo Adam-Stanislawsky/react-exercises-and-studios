@@ -2,7 +2,7 @@ export default function BookList() {
    let pageTitle = "Books I've Read";
    let book1 = "https://upload.wikimedia.org/wikipedia/en/e/ee/DoAndroidsDream.png";
    let book2 = "https://images-us.bookshop.org/ingram/9780679733782.jpg?height=500&v=v2https://images-us.bookshop.org/ingram/9780679733782.jpg?height=500&v=v2";
-   let book3 = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631519495i/6289283.jpg";
+   let book3 = "https://runnersdiscourse.com/wp-content/uploads/2019/02/pdfbooksinfo.blogspot.com-born-to-run-by-christopher-mcdougall.jpg";
 
    return (
       <div>

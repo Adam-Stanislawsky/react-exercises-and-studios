@@ -7,4 +7,8 @@
 .movieHeading {
    color: blue;
    text-align: left;
+   border-bottom-style: double;
+   border-top-style: double;
+   border-left-style: double;
+   border-right-style: double;
 }
