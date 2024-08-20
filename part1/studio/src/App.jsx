@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import RecipeDescription from './components/Description'
+import RecipeIngredients from './components/Ingredients'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       <div className="App">
         <div>
           <RecipeDescription />
+          <RecipeIngredients />
         </div>
       </div>
       

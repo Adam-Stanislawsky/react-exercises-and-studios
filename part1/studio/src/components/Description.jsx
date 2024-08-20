@@ -25,7 +25,7 @@ class RecipeDescription extends React.Component {
        return(
             <div> 
                 <div>
-                 <h1>Best Potatoes You'll Ever TasteBest Potatoes You'll Ever Taste</h1>
+                 <h1>Best Potatoes You'll Ever Taste</h1>
                   <p>Since trying these, I have gone completely potato crazy with mad potato disease!!! </p>
             </div>
                 <RecipeAuthor />
@@ -34,4 +34,4 @@ class RecipeDescription extends React.Component {
     }
  }
  
- export default RecipeDescription; RecipeAuthor ;
+ export default RecipeDescription;
